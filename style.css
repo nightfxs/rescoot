@@ -1,0 +1,54 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+    text-align: center;
+}
+.container {
+    padding: 20px;
+}
+.logo {
+    width: 120px;
+    margin-bottom: 10px;
+}
+h1 {
+    font-size: 28px;
+    margin: 10px 0;
+}
+.subtitle {
+    font-size: 16px;
+    color: #666;
+}
+.city {
+    font-size: 18px;
+    margin: 15px 0;
+}
+.links {
+    margin: 20px 0;
+}
+.button {
+    display: inline-block;
+    margin: 10px;
+    padding: 12px 24px;
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+.telegram {
+    background-color: #229ED9;
+}
+.tiktok {
+    background-color: #010101;
+}
+.price {
+    background-color: #229ED9;
+}
+footer {
+    margin-top: 40px;
+    font-size: 14px;
+    color: #aaa;
+}
